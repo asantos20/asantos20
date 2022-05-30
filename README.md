@@ -1,5 +1,5 @@
 ## Olá 👋
-Eu sou Anderson e estou aqui para compartilhar um pouco do meu conhecimento em Estatística 🧙🏾‍♂️📊. Sou bacharel em Estatística pela Universidade Federal de Sergipe e estudante de Ciência de Dados.
+Eu sou Anderson e estou aqui para compartilhar um pouco do meu conhecimento em Estatística 🧙🏾‍♂️📊. Sou bacharel em Estatística pela Universidade Federal de Sergipe e estudante de Ciência de Dados. Como bom estatístico, tenho o objetivo de aliar o conhecimento teórico ao prático e desenvolver informações para auxiliar na tomada de decisão de todos que desejam se direcionar pelos dados.
 
 <div align="center">
   <a href="https://github.com/asantos20">
