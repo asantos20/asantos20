@@ -1,9 +1,21 @@
-## Olá 👋
+## Olá 👋🏾
 
 <div class="conteudo" align="center" style="border-box: none">
 <p align="justify">
-    Eu me chamo Anderson e estou aqui para compartilhar um pouco do meu conhecimento em Estatística 🧙🏾‍♂️📊. Sou bacharel em Estatística pela Universidade Federal de Sergipe - UFS e estudante de Ciência de Dados. Como bom estatístico, tenho o objetivo de aliar o conhecimento teórico ao prático e desenvolver informações para auxiliar na tomada de decisão a todos os que desejam se direcionar através dos dados, afinal, como já dizia o grande matemático William Edwards Deming, "Sem dados você é apenas mais uma pessoa com uma opinião".
+    Eu me chamo Anderson e estou aqui para compartilhar um pouco do meu conhecimento em Estatística 🧙🏾‍♂️📊. Sou bacharel em Estatística pela Universidade Federal de Sergipe - UFS e estudante de Ciência de Dados. Como bom estatístico, tenho o objetivo de conciliar o conhecimento teórico ao prático e desenvolver informações para auxiliar na tomada de decisão a todos os que desejam se direcionar através dos dados, afinal, como já dizia o grande matemático William Edwards Deming, "Sem dados você é apenas mais uma pessoa com uma opinião".
 </p> 
+<div>
+
+<br>
+<br>
+
+<div class="conteudo" align="center" style="border-box: none">
+<p align="justify">
+    My name is Anderson and I'm here to share some of my knowledge in Statistics 🧙🏾‍♂️📊. I have a degree in Statistics from the Federal University of Sergipe - UFS and a Data Science student. As a good statistician, I aim to combine theoretical and practical knowledge and develop information to assist in decision-making for all those who wish to be guided through data, after all, as the great mathematician William Edwards Deming said, "Without data you is just another person with an opinion".
+</p> 
+    
+<br>
+
 <div>
   
 <div align="center">
