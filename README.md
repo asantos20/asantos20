@@ -9,11 +9,13 @@
 </div>
  
 <div style="display: inline_block"><br>
-  <img align="center" height="30" width="30" src="https://img.icons8.com/ultraviolet/40/000000/registered-trademark.png">
-  <img align="center" alt="David-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" height="30" width="30" src="https://img.icons8.com/color/48/000000/power-bi.png"/>
+  <img align="center" height="40" width="40" src="https://img.icons8.com/ultraviolet/40/000000/registered-trademark.png">
+  <img align="center" alt="David-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" height="40" width="40" src="https://img.icons8.com/color/48/000000/power-bi.png"/>
   <img align="center" alt="David-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img align="center" height="45" width="45" src="https://img.icons8.com/plasticine/100/000000/github.png"/>
+  <img align="center" height="40" width="40" src="https://img.icons8.com/external-soft-fill-juicy-fish/60/000000/external-sql-servers-and-networks-soft-fill-soft-fill-juicy-fish.png"/>
+  <img align="center" height="40" width="40" src="https://img.icons8.com/color/48/000000/office-365.png"/>
+  <img align="center" height="50" width="50" src="https://img.icons8.com/plasticine/100/000000/github.png"/>
 
   </div>
   
