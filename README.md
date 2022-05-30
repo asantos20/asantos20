@@ -13,7 +13,7 @@
   <img align="center" alt="David-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" height="30" width="30" src="https://img.icons8.com/color/48/000000/power-bi.png"/>
   <img align="center" alt="David-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img align="center" alt="David-Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img align="center" height="45" width="45" src="https://img.icons8.com/plasticine/100/000000/github.png"/>
 
   </div>
   
