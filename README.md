@@ -1,7 +1,7 @@
 ## Olá, me chamo Anderson
 ### Estou aqui para compartilhar um pouco do meu conhecimento em Estatística 👋
 
-- 🧙🏾‍♂️📊 Estatístico e Cientista de Dados.
+- 🧙🏾‍♂️📊 Bacharel em Estatística e estudante de Ciência de Dados.
 <div align="center">
   <a href="https://github.com/asantos20">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=asantos20&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
@@ -9,10 +9,11 @@
 </div>
  
 <div style="display: inline_block"><br>
-  <img height="20" src="https://img.icons8.com/ultraviolet/40/000000/registered-trademark.png">
+  <img align="center" height="30" width="30" src="https://img.icons8.com/ultraviolet/40/000000/registered-trademark.png">
   <img align="center" alt="David-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" height="30" width="30" src="https://img.icons8.com/color/48/000000/power-bi.png"/>
   <img align="center" alt="David-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-   <img align="center" alt="David-Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img align="center" alt="David-Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
   </div>
   
