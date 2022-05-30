@@ -1,7 +1,6 @@
 ## Olá 👋
-Me chamo Anderson e estou aqui para compartilhar um pouco do meu conhecimento em Estatística 🧙🏾‍♂️📊
+Me chamo Anderson e estou aqui para compartilhar um pouco do meu conhecimento em Estatística 🧙🏾‍♂️📊. Sou bacharel em Estatística e estudante de Ciência de Dados.
 
-- Bacharel em Estatística e estudante de Ciência de Dados.
 <div align="center">
   <a href="https://github.com/asantos20">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=asantos20&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
