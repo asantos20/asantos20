@@ -1,6 +1,12 @@
 ## Olá 👋
-Eu sou Anderson e estou aqui para compartilhar um pouco do meu conhecimento em Estatística 🧙🏾‍♂️📊. Sou bacharel em Estatística pela Universidade Federal de Sergipe e estudante de Ciência de Dados. Como bom estatístico, tenho o objetivo de aliar o conhecimento teórico ao prático e desenvolver informações para auxiliar na tomada de decisão de todos que desejam se direcionar pelos dados.
 
+<div class="conteudo" align="center" style="border-box: none">
+<p align="justify">
+    Eu me chamo Anderson e estou aqui para compartilhar um pouco do meu conhecimento em Estatística 🧙🏾‍♂️📊. Sou bacharel em Estatística pela Universidade Federal de Sergipe e estudante de Ciência de Dados. Como bom estatístico, tenho o objetivo de aliar o conhecimento teórico ao prático e desenvolver informações para auxiliar na tomada de decisão de todos que desejam se direcionar pelos dados.
+</p> 
+<br>
+<div>
+  
 <div align="center">
   <a href="https://github.com/asantos20">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=asantos20&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
