@@ -2,7 +2,7 @@
 
 <div class="conteudo" align="center" style="border-box: none">
 <p align="justify">
-    Eu me chamo Anderson e estou aqui para compartilhar um pouco do meu conhecimento em Estatística 🧙🏾‍♂️📊. Sou bacharel em Estatística pela Universidade Federal de Sergipe - UFS e estudante de Ciência de Dados. Como bom estatístico, tenho o objetivo de aliar o conhecimento teórico ao prático e desenvolver informações para auxiliar na tomada de decisão de todos os que desejam se direcionar através dos dados, afinal, como já dizia o grande matemático William Edwards Deming, "Sem dados você é apenas mais uma pessoa com uma opinião".
+    Eu me chamo Anderson e estou aqui para compartilhar um pouco do meu conhecimento em Estatística 🧙🏾‍♂️📊. Sou bacharel em Estatística pela Universidade Federal de Sergipe - UFS e estudante de Ciência de Dados. Como bom estatístico, tenho o objetivo de aliar o conhecimento teórico ao prático e desenvolver informações para auxiliar na tomada de decisão a todos os que desejam se direcionar através dos dados, afinal, como já dizia o grande matemático William Edwards Deming, "Sem dados você é apenas mais uma pessoa com uma opinião".
 </p> 
 <br>
 <div>
