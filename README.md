@@ -1,4 +1,5 @@
-### Olá, me chamo Anderson e estou aqui para compartilhar um pouco do meu conhecimento em Estatística 👋
+# Olá, me chamo Anderson
+### Estou aqui para compartilhar um pouco do meu conhecimento em Estatística 👋
 
 - 🧙🏾‍♂️📊 Estatístico e Cientista de Dados.
 <div align="center">
