@@ -36,19 +36,8 @@
   </div>
   
 ##
-<!--
-<div> 
-  <a href="https://instagram.com/ianderson79" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/#" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:anderson.santos7979@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/anderson-santos-90258b19b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
- ![Snake animation](https://github.com/asantos20/asantos20/blob/output/github-contribution-grid-snake.svg)
-    
+   
 </div>
-    
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=asantos20&repo=asantos2021&theme=react)](https://github.com/asantos20/asantos20)
- </div>
   <br>
  
   ![Snake animation](https://github.com/alan-elias/alan-elias/blob/output/github-contribution-grid-snake.svg)
